@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "calendar-booking"
+    }
+  },
+  "defaultProject": "calendar-booking",
+  "cli": {
+    "analytics": false
+  }
 }
